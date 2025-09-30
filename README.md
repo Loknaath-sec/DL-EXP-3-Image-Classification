@@ -6,7 +6,7 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-The goal of this project is to develop a Convolutional Neural Network (CNN) for image classification using the MNIST dataset. The MNIST dataset contains handwritten digit images (0-9), and the model aims to classify them correctly. The challenge is to achieve high accuracy while maintaining efficiency.
+The goal of this project is to develop a Convolutional Neural Network (CNN) for image classification using the Fashion MNIST dataset. The Fashion MNIST dataset contains images of clothing items such as T-shirts, trousers, dresses, and shoes, and the model aims to classify them into their respective categories correctly. The challenge is to achieve high accuracy while maintaining efficiency.
 
 ## Neural Network Model
 
