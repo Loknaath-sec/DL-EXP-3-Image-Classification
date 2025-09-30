@@ -16,16 +16,16 @@ The goal of this project is to develop a Convolutional Neural Network (CNN) for 
 ## DESIGN STEPS
 
 #### STEP 1: Problem Statement
-Define the objective of classifying handwritten digits (0-9) using a Convolutional Neural Network (CNN).
+Define the objective of classifying fashion items (such as shirts, shoes, bags, etc.) using a Convolutional Neural Network (CNN).
 
 #### STEP 2:Dataset Collection
-Use the MNIST dataset, which contains 60,000 training images and 10,000 test images of handwritten digits.
+Use the Fashion MNIST dataset, which contains 60,000 training images and 10,000 test images of labeled clothing and accessory items.
 
 #### STEP 3: Data Preprocessing
 Convert images to tensors, normalize pixel values, and create DataLoaders for batch processing.
 
 #### STEP 4:Model Architecture
-Design a CNN with convolutional layers, activation functions, pooling layers, and fully connected layers.
+Design a CNN with convolutional layers, activation functions, pooling layers, and fully connected layers tailored for 10 fashion categories.
 
 #### STEP 5:Model Training
 Train the model using a suitable loss function (CrossEntropyLoss) and optimizer (Adam) for multiple epochs.
